@@ -1,0 +1,4 @@
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+//@theme "/usr/share/rofi/themes/dmenu.rasi"
+//@theme "/home/lr0n/.local/share/rofi/themes/nord.rasi"
+@theme "/home/lr0n/.local/share/rofi/themes/nord-oneline.rasi"

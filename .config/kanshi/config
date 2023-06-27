@@ -1,0 +1,7 @@
+profile both {
+	output DP-3 mode 1920x1080 position 0,0
+        output DP-2 mode 2560x1440 position 1920,0
+}
+profile single {
+	output DP-3 mode 2560x1440 position 1920,0
+}

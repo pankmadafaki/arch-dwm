@@ -1,0 +1,6 @@
+set default-bg "#434C5E"
+set recolor true
+set recolor-lightcolor "#434C5E"
+set recolor-darkcolor "#eceff4"
+set highlight-color "#89AACB"
+set highlight-active-color "#89AACB"
